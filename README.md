@@ -1,6 +1,6 @@
 ### SEJA BEM-VINDO AO MEU GITHUB!! 👋
 
-## Prazer! 👋 me chamo Jailso Costa dos Santos 
+## Prazer! 👋 me chamo Jailson Costa dos Santos 
 
  
   ° 💻 Atualmente estou cursando Oracle Alura Next Education para me aperfeiçoar em <strong>Html/Css, Java e Javascript.</strong>
