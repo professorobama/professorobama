@@ -1,15 +1,16 @@
 ### SEJA BEM-VINDO AO MEU GITHUB!! 👋
 
-## Prazer! 👋 me chamo Jailson Costa dos Santos 
+## Prazer! 👋 Me chamo Jailson Costa dos Santos 
 
+  ° 💻 Conhecido no mundo da educação e tecnologia como <strong>Professor Obama.</strong>
  
-  ° 💻 Atualmente estou cursando Oracle Alura Next Education para me aperfeiçoar em <strong>Html/Css, Java e Javascript.</strong>
+  ° 💻 Docente e Professor na áreas de <strong>Tecnologia</strong> e <strong>Engenharias.</strong>
 
   ° 💼 Buscando oportunidades para inicio de carreira (<strong>Desenvolvedor Junior, Desenvolvedor Java Junior, Desenvolvedor Front-end Junior</strong>).
 
   ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
 
-  ° 🎓 Formado em <strong>Programação Full-Stack</strong> no Instituto Proa.
+  ° 🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade UMC.
   
  <div>
  <hr>
