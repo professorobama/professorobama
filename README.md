@@ -6,7 +6,7 @@
  
   ° 💻 Docente e Professor na áreas de <strong>Tecnologia</strong> e <strong>Engenharias.</strong>
 
-  ° 💼 Buscando oportunidades para inicio de carreira (<strong>Desenvolvedor Junior, Desenvolvedor Java Junior, Desenvolvedor Front-end Junior</strong>).
+  ° 💼 Professor de Tecnologia da Informação no Senac, Anhanguera, Faculdade Flamingo e Colégio Técnico Flamingo..
 
   ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
 
