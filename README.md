@@ -8,8 +8,8 @@
 
   ° 💼 Professor de Tecnologia da Informação no Senac, Anhanguera, Faculdade Flamingo, Faculdade Unipaulistana e Colégio Técnico Flamingo.
 
-  ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
-
+  ° 🚀 Buscando sempre aprender novas tecnologias de <strong>Fornt-End </strong>, <strong> Back End</strong>, <strong> Banco de Dados </strong> e <strong> Mobile</strong>.
+  
   ° 🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade UMC.
   
  <div>
